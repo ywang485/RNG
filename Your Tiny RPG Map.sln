@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{835071BB-F27F-D19B-359F-7E529BBA0A95}") = "Your Tiny RPG Map", "Assembly-CSharp.csproj", "{0B6B559D-C675-A46A-51E1-29652C4CCCF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6B559D-C675-A46A-51E1-29652C4CCCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6B559D-C675-A46A-51E1-29652C4CCCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6B559D-C675-A46A-51E1-29652C4CCCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6B559D-C675-A46A-51E1-29652C4CCCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

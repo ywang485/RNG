@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Opening.cs" Line="9" Column="23" />
+      <File FileName="Assets/Scripts/Mesh.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/GamePlay.cs" Line="42" Column="69" />
+      <File FileName="Assets/Scripts/PlayerData.cs" Line="25" Column="27" />
+      <File FileName="Assets/Scripts/Hero.cs" Line="101" Column="50" />
+      <File FileName="Assets/Scripts/Monster.cs" Line="41" Column="97" />
+      <File FileName="Assets/Scripts/MonsterDatabase.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/ItemDatabase.cs" Line="9" Column="9" />
+      <File FileName="Assets/Scripts/Battle.cs" Line="108" Column="3" />
+      <File FileName="Assets/Scripts/MonsterType.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Village.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
